@@ -1,3 +1,6 @@
+
+
+
 #! /bin/bash
 
 echo "-------flip coin simulator-------"
@@ -22,3 +25,4 @@ flipStore[$side]=$(($(flipStore[$side]}+1))
 done
 echo "count combinations :${flipStore[@]}"
 }
+
