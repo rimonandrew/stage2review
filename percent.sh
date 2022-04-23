@@ -1,4 +1,4 @@
-#!/bin/bashb-x
+#!/bin/bash
 delcare -A coin
 coin[Heads]=0
 coin[Tails]=0
